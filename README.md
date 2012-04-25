@@ -5,7 +5,10 @@ http://www.gnu.org/licenses/lgpl.html
 
 Copyright 2008-2011 by Laurent Minguet
 *******************************
-HTML2PDF v4.03 - 2011-05-27
+This is an html2pdf repo containing fixes and updates
+not included in the original source (unmantained since 2011-05).
+
+This code is based on: HTML2PDF v4.03 - 2011-05-27
 
 Patched by Daniele Di Sarli. Look at commit history for info.
 *******************************
